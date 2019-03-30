@@ -2,12 +2,12 @@ def division(num1, num2)
  num1 / num2
 end
 
-def assign_variable(value)
-  var_name = value
+def assign_variable(name)
+  var = name
 end
 
-def argue(name)
-  name
+def argue(phrase)
+  phrase
 end
 
 def greeting(arg1, arg2)
